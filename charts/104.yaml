@@ -1,0 +1,36 @@
+slice_name: "\u0442\u043E\u0442\u0430\u043B \u0442\u0440\u0443\u0434\u043E\u0441\u043F\
+  \u043E\u0441\u043E\u0431\u043D\u044B\u0445"
+description: null
+certified_by: null
+certification_details: null
+viz_type: pie
+params:
+  datasource: 25__table
+  viz_type: pie
+  slice_id: 104
+  groupby:
+  - ABLE_POPULATION
+  metric: count
+  adhoc_filters: []
+  row_limit: 100
+  sort_by_metric: true
+  color_scheme: supersetColors
+  show_labels_threshold: 5
+  show_legend: true
+  legendType: scroll
+  legendOrientation: top
+  label_type: key
+  number_format: SMART_NUMBER
+  date_format: smart_date
+  show_labels: true
+  labels_outside: true
+  outerRadius: 70
+  innerRadius: 30
+  extra_form_data: {}
+  dashboards:
+  - 11
+query_context: '{"datasource":{"id":25,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["ABLE_POPULATION"],"metrics":["count"],"orderby":[["count",false]],"annotation_layers":[],"row_limit":100,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"25__table","viz_type":"pie","slice_id":104,"groupby":["ABLE_POPULATION"],"metric":"count","adhoc_filters":[],"row_limit":100,"sort_by_metric":true,"color_scheme":"supersetColors","show_labels_threshold":5,"show_legend":true,"legendType":"scroll","legendOrientation":"top","label_type":"key","number_format":"SMART_NUMBER","date_format":"smart_date","show_labels":true,"labels_outside":true,"outerRadius":70,"innerRadius":30,"extra_form_data":{},"dashboards":[11],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 87334d75-6a3a-4202-846d-c66467c83dc6
+version: 1.0.0
+dataset_uuid: d5443528-76be-411a-9ef5-9175e661a389

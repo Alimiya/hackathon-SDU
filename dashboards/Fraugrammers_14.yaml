@@ -1,0 +1,1776 @@
+dashboard_title: '[Fraugrammers]'
+description: null
+css: ''
+slug: null
+uuid: 1d60b14c-1320-4218-9903-82e01d9f0108
+position:
+  CHART-O0DdUX4ijo:
+    children: []
+    id: CHART-O0DdUX4ijo
+    meta:
+      chartId: 102
+      height: 50
+      sliceName: "\u0421\u0440\u0435\u0434\u043D\u044F\u044F \u0437\u0430\u0440\u043F\
+        \u043B\u0430\u0442\u0430 \u043F\u043E \u0440\u0430\u0439\u043E\u043D\u0430\
+        \u043C"
+      uuid: 8c3aedfa-4b69-4367-86db-daf355f287c6
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C-Igbbqgsn
+    type: CHART
+  CHART-OtSZfGd2kt:
+    children: []
+    id: CHART-OtSZfGd2kt
+    meta:
+      chartId: 115
+      height: 50
+      sliceName: 'Number of properties over regions '
+      sliceNameOverride: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\
+        \ \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438\
+        \ \u043F\u043E \u0440\u0435\u0433\u0438\u043E\u043D\u0443"
+      uuid: 67ae403d-8cd6-47c6-99e9-ad9701b61ecc
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-DwDgA8_9Cj
+    type: CHART
+  CHART-V4QBBuZg8_:
+    children: []
+    id: CHART-V4QBBuZg8_
+    meta:
+      chartId: 108
+      height: 50
+      sliceName: "\u0430\u0432\u0433 \u0438\u043D\u043A\u0430\u043C \u043F\u043E \u0432\
+        \u043E\u0437\u0440\u0430\u0441\u0442\u0443"
+      sliceNameOverride: "\u0421\u0440\u0435\u0434\u043D\u044F\u044F \u0437\u0430\u0440\
+        \u043F\u043B\u0430\u0442\u0430 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\
+        \u0441\u0442\u0443"
+      uuid: 1bd5a1d8-6868-48a7-9b34-dd42cc49bf52
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-W9vxdHr1Z3
+    type: CHART
+  CHART-XeKEcjewlD:
+    children: []
+    id: CHART-XeKEcjewlD
+    meta:
+      chartId: 107
+      height: 50
+      sliceName: "\u0441\u0440\u0435\u0434\u043D\u0435\u0435 \u043B\u044E\u0434\u0435\
+        \u0439 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0443"
+      sliceNameOverride: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\
+        \ \u043B\u044E\u0434\u0435\u0439 \u043F\u043E \u0432\u043E\u0437\u0440\u0430\
+        \u0441\u0442\u0443"
+      uuid: fc7b8902-974b-4474-9aae-cfad7fc1bb22
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-9fH8gvjlyR
+    type: CHART
+  CHART-YTZ-Upu6bU:
+    children: []
+    id: CHART-YTZ-Upu6bU
+    meta:
+      chartId: 110
+      height: 50
+      sliceName: Coun type of property
+      sliceNameOverride: "\u0412\u0438\u0434 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\
+        \u043C\u043E\u0441\u0442\u0438"
+      uuid: c30ab4e1-6931-408d-b480-518d87f31ece
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-DwDgA8_9Cj
+    type: CHART
+  CHART-aLLm_oJv_p:
+    children: []
+    id: CHART-aLLm_oJv_p
+    meta:
+      chartId: 103
+      height: 50
+      sliceName: "\u041E\u0431\u0449\u0435\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\
+        \u0441\u0442\u0432\u043E \u043B\u044E\u0434\u0435\u0439 \u043F\u043E \u043A\
+        \u0430\u0436\u0434\u043E\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\
+        \u044C\u043D\u043E\u0441\u0442\u0438"
+      sliceNameOverride: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\
+        \ \u043B\u044E\u0434\u0435\u0439 \u043F\u043E \u043A\u0430\u0436\u0434\u043E\
+        \u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0441\
+        \u0442\u0438"
+      uuid: 4aebdbba-7a17-4766-ba0d-e527d24f6d1a
+      width: 8
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-bjn3nAmlaK
+    type: CHART
+  CHART-bRdULe3PDq:
+    children: []
+    id: CHART-bRdULe3PDq
+    meta:
+      chartId: 111
+      height: 50
+      sliceName: Avg, min and max of Plosh Zhiliya
+      sliceNameOverride: "\u0416\u0438\u043B. \u043F\u043B\u043E\u0449\u0430\u0434\
+        \u044C"
+      uuid: cbfc10ac-713d-499f-a383-7ece59ac9fa2
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-BMah26QkR_
+    type: CHART
+  CHART-dTCbbMmfZu:
+    children: []
+    id: CHART-dTCbbMmfZu
+    meta:
+      chartId: 113
+      height: 50
+      sliceName: Avg, min and max of Price
+      sliceNameOverride: "\u0421\u0440\u0435\u0434\u043D\u044F\u044F \u0446\u0435\u043D\
+        \u0430 \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438"
+      uuid: 9b7d6f22-3510-4318-8efd-51d3e47de287
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-xa0C22DFUv
+    type: CHART
+  CHART-explore-258-1:
+    children: []
+    id: CHART-explore-258-1
+    meta:
+      chartId: 123
+      height: 44
+      sliceName: "\u0420\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\
+        \u0438\u0435 \u0441\u0440\u0435\u0434\u043D\u0435\u0439 \u0446\u0435\u043D\
+        \u044B \u043B\u0435\u043A\u0430\u0440\u0441\u0442\u0432 \u043E\u0442 \u0441\
+        \u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E\u0449\u0438\
+        \u0445 \u0437\u0430\u0431\u043E\u043B\u0435\u0432\u0430\u043D\u0438\u0439"
+      uuid: dccd6ded-ab26-48d4-9311-82a7359e7af9
+      width: 10
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-sBwUsxP_c
+    type: CHART
+  CHART-explore-261-1:
+    children: []
+    id: CHART-explore-261-1
+    meta:
+      chartId: 125
+      height: 32
+      sliceName: Sex Distribution among Customers
+      sliceNameOverride: "\u041F\u043E\u043B \u043F\u043E\u043A\u0443\u043F\u0430\u0442\
+        \u0435\u043B\u0435\u0439"
+      uuid: 738e1158-b963-4956-bc2f-8ccfd0c0643a
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-0TzjM6I3D7
+    type: CHART
+  CHART-explore-264-1:
+    children: []
+    id: CHART-explore-264-1
+    meta:
+      chartId: 122
+      height: 44
+      sliceName: Total Number of Customers
+      sliceNameOverride: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\
+        \ \u043F\u043E\u043A\u0443\u043F\u0430\u0442\u0435\u043B\u0435\u0439 \u0430\
+        \u043F\u0442\u0435\u043A"
+      uuid: c736ce97-fd6e-4827-9855-33580b877fe6
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-sBwUsxP_c
+    type: CHART
+  CHART-explore-266-1:
+    children: []
+    id: CHART-explore-266-1
+    meta:
+      chartId: 120
+      height: 32
+      sliceName: Most Common Illnesses
+      sliceNameOverride: "\u0421\u043F\u0438\u0441\u043E\u043A \u0431\u043E\u043B\u0435\
+        \u0437\u043D\u0435\u0439"
+      uuid: e9468382-2268-42c8-809f-23752a9615a5
+      width: 5
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-0TzjM6I3D7
+    type: CHART
+  CHART-explore-267-1:
+    children: []
+    id: CHART-explore-267-1
+    meta:
+      chartId: 124
+      height: 32
+      sliceName: Medicine
+      sliceNameOverride: "\u041D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u043F\u0440\
+        \u0435\u043F\u0430\u0440\u0430\u0442\u0430"
+      uuid: 0f12a1be-1b41-4bb2-b002-f40b0f169f87
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-0TzjM6I3D7
+    type: CHART
+  CHART-explore-269-1:
+    children: []
+    id: CHART-explore-269-1
+    meta:
+      chartId: 126
+      height: 33
+      sliceName: Districts
+      uuid: 48c8c081-c7f2-498d-80ba-fd0bf05a96c3
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-u57mYGwQtq
+    type: CHART
+  CHART-explore-318-1:
+    children: []
+    id: CHART-explore-318-1
+    meta:
+      chartId: 116
+      height: 52
+      sliceName: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043E\
+        \u043A\u0430\u0437\u0430\u043D\u043D\u044B\u0445 \u0443\u0441\u043B\u0443\u0433"
+      uuid: e3923edd-f7cc-4480-82cb-53dbf7b5d49f
+      width: 2
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-pnRsxRvOx9
+    type: CHART
+  CHART-explore-319-1:
+    children: []
+    id: CHART-explore-319-1
+    meta:
+      chartId: 121
+      height: 52
+      sliceName: "\u0423\u0441\u043B\u0443\u0433\u0438, \u043E\u043A\u0430\u0437\u0430\
+        \u043D\u043D\u044B\u0435 \u0441 \u0437\u0430\u0434\u0435\u0440\u0436\u043A\
+        \u043E\u0439 \u043F\u043E \u0410\u043B\u043C\u0430\u0442\u0438\u043D\u0441\
+        \u043A\u043E\u043C\u0443 \u0440\u0430\u0439\u043E\u043D\u0443 \u0438 \u0433\
+        .\u0410\u043B\u043C\u0430\u0442\u044B"
+      uuid: 0a3b894f-7c6c-4374-af0a-906d26ef6f6f
+      width: 3
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-pnRsxRvOx9
+    type: CHART
+  CHART-explore-320-1:
+    children: []
+    id: CHART-explore-320-1
+    meta:
+      chartId: 118
+      height: 52
+      sliceName: "\u0423\u0441\u043B\u0443\u0433\u0438, \u043E\u043A\u0430\u0437\u0430\
+        \u043D\u043D\u044B\u0435 \u0441 \u0437\u0430\u0434\u0435\u0440\u0436\u043A\
+        \u043E\u0439 \u043F\u043E \u0410\u043B\u043C\u0430\u0442\u0438\u043D\u0441\
+        \u043A\u043E\u043C\u0443 \u043E\u0431\u043B\u0430\u0441\u0442\u0438"
+      uuid: d9ba7882-995a-47ec-99b5-d32c2b3256ec
+      width: 7
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-pnRsxRvOx9
+    type: CHART
+  CHART-explore-321-1:
+    children: []
+    id: CHART-explore-321-1
+    meta:
+      chartId: 117
+      height: 50
+      sliceName: "\u0417\u0430\u0434\u0435\u0440\u0436\u043A\u0430 \u0443\u0441\u043B\
+        \u0443\u0433 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F\
+        \u043C\u0438"
+      uuid: 4138119a-7a24-474e-a5e8-208b02628f38
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-RM5BI9bXc
+    type: CHART
+  CHART-explore-322-1:
+    children: []
+    id: CHART-explore-322-1
+    meta:
+      chartId: 119
+      height: 50
+      sliceName: "\u0417\u0430\u0434\u0435\u0440\u0436\u043A\u0430 \u0443\u0441\u043B\
+        \u0443\u0433 \u0447\u0435\u0440\u0435\u0437 \u0438\u043D\u0444\u043E\u0440\
+        \u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u0441\u0438\u0441\u0442\
+        \u0435\u043C\u044B"
+      uuid: 370ec991-06ce-422d-8ed9-5551126c98a3
+      width: 6
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-RM5BI9bXc
+    type: CHART
+  CHART-kQ00zVM20O:
+    children: []
+    id: CHART-kQ00zVM20O
+    meta:
+      chartId: 106
+      height: 50
+      sliceName: "\u0442\u043E\u0442\u0430\u043B \u043F\u043E\u043B"
+      sliceNameOverride: "\u041F\u043E\u043B \u043D\u0430\u0441\u0435\u043B\u0435\u043D\
+        \u0438\u044F"
+      uuid: 46c52488-69e4-411c-b02c-568e94d886b8
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-W9vxdHr1Z3
+    type: CHART
+  CHART-o1Pnd8ZZax:
+    children: []
+    id: CHART-o1Pnd8ZZax
+    meta:
+      chartId: 109
+      height: 50
+      sliceName: "\u041D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435"
+      uuid: dfb2df32-5696-4feb-b8ae-0de1872b5bf3
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-C-Igbbqgsn
+    type: CHART
+  CHART-u8b6Y_9T-Z:
+    children: []
+    id: CHART-u8b6Y_9T-Z
+    meta:
+      chartId: 112
+      height: 50
+      sliceName: Number of properties
+      sliceNameOverride: "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E\
+        \ \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u0438"
+      uuid: 84d2a2f8-fbad-40ea-ad03-689d557e81f9
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-DwDgA8_9Cj
+    type: CHART
+  CHART-wGveat3eCF:
+    children: []
+    id: CHART-wGveat3eCF
+    meta:
+      chartId: 104
+      height: 50
+      sliceName: "\u0442\u043E\u0442\u0430\u043B \u0442\u0440\u0443\u0434\u043E\u0441\
+        \u043F\u043E\u0441\u043E\u0431\u043D\u044B\u0445"
+      sliceNameOverride: "\u0422\u0440\u0443\u0434\u043E\u0441\u043F\u043E\u0441\u043E\
+        \u0431\u043D\u043E\u0435 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435"
+      uuid: 87334d75-6a3a-4202-846d-c66467c83dc6
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-bjn3nAmlaK
+    type: CHART
+  CHART-zzaSt8jIEr:
+    children: []
+    id: CHART-zzaSt8jIEr
+    meta:
+      chartId: 105
+      height: 50
+      sliceName: "\u0442\u043E\u0442\u0430\u043B \u0441\u0435\u043C\u0435\u0439\u043D\
+        \u043E\u0435 \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435"
+      sliceNameOverride: "\u0421\u0435\u043C\u0435\u0439\u043D\u043E\u0435 \u043F\u043E\
+        \u043B\u043E\u0436\u0435\u043D\u0438\u0435 \u043D\u0430\u0441\u0435\u043B\u0435\
+        \u043D\u0438\u044F"
+      uuid: 37a1c3d2-3ae2-4177-a29c-fb3754d22f49
+      width: 4
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-9fH8gvjlyR
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  DIVIDER-AexXb8wEyV:
+    children: []
+    id: DIVIDER-AexXb8wEyV
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  DIVIDER-VOfwaWMgID:
+    children: []
+    id: DIVIDER-VOfwaWMgID
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  DIVIDER-h7sGxX5-JP:
+    children: []
+    id: DIVIDER-h7sGxX5-JP
+    meta: {}
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: DIVIDER
+  GRID_ID:
+    children:
+    - HEADER-dyzJ_r9pw-
+    - ROW-sBwUsxP_c
+    - ROW-0TzjM6I3D7
+    - ROW-u57mYGwQtq
+    - ROW-ayLsvtGl3u
+    - DIVIDER-AexXb8wEyV
+    - HEADER-NfFbNbctIP
+    - ROW-pnRsxRvOx9
+    - ROW-RM5BI9bXc
+    - ROW-Ht1VFNy2Ir
+    - DIVIDER-h7sGxX5-JP
+    - HEADER-chFDfhx40J
+    - ROW-C-Igbbqgsn
+    - ROW-W9vxdHr1Z3
+    - ROW-9fH8gvjlyR
+    - ROW-bjn3nAmlaK
+    - ROW-2h6vGTuHNS
+    - DIVIDER-VOfwaWMgID
+    - HEADER-YQzNTKfLLL
+    - ROW-DwDgA8_9Cj
+    - ROW-BMah26QkR_
+    - ROW-xa0C22DFUv
+    - ROW--1tTd_0vQ
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER-NfFbNbctIP:
+    children: []
+    id: HEADER-NfFbNbctIP
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      headerSize: MEDIUM_HEADER
+      text: "\u0421\u0432\u043E\u0434\u043A\u0430 \u043F\u043E \u0433\u043E\u0441\u0443\
+        \u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0443\u0441\
+        \u043B\u0443\u0433\u0430\u043C"
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: HEADER
+  HEADER-YQzNTKfLLL:
+    children: []
+    id: HEADER-YQzNTKfLLL
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      headerSize: LARGE_HEADER
+      text: "\u0421\u0432\u043E\u0434\u043A\u0430 \u043F\u043E \u043F\u0435\u0440\u0435\
+        \u0447\u043D\u044E \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\
+        \u0442\u0438 \u0440\u0430\u0437\u043D\u044B\u0445 \u0432\u0438\u0434\u043E\
+        \u0432"
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: HEADER
+  HEADER-chFDfhx40J:
+    children: []
+    id: HEADER-chFDfhx40J
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      headerSize: LARGE_HEADER
+      text: "\u0421\u0432\u043E\u0434\u043A\u0430 \u0433\u0440\u0430\u0436\u0434\u0430\
+        \u043D \u043F\u0440\u043E\u0436\u0438\u0432\u0430\u044E\u0449\u0438\u0445\
+        \ \u0410\u043B\u043C\u0430\u0442\u0435 \u0438 \u0410\u043B\u043C\u0430\u0442\
+        \u0438\u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438"
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: HEADER
+  HEADER-dyzJ_r9pw-:
+    children: []
+    id: HEADER-dyzJ_r9pw-
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      headerSize: MEDIUM_HEADER
+      text: "\u0421\u0432\u043E\u0434\u043A\u0430 \u043F\u043E \u043F\u043E\u043A\u0443\
+        \u043F\u0430\u0442\u0435\u043B\u044F\u043C \u043B\u0435\u043A\u0430\u0440\u0441\
+        \u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0441\u0440\u0435\u0434\u0441\u0442\
+        \u0432"
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: HEADER
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: '[Fraugrammers]'
+    type: HEADER
+  MARKDOWN--QyOFKy81u:
+    children: []
+    id: MARKDOWN--QyOFKy81u
+    meta:
+      code: "\u041F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044B\u0435 \u0434\u0430\
+        \u043D\u043D\u044B\u0435 \u0441\u0432\u0438\u0434\u0435\u0442\u0435\u043B\u044C\
+        \u0441\u0442\u0432\u0443\u044E\u0442 \u043E \u0437\u043D\u0430\u0447\u0438\
+        \u0442\u0435\u043B\u044C\u043D\u043E\u043C \u0440\u0430\u0437\u043B\u0438\u0447\
+        \u0438\u0438 \u0432 \u0441\u0443\u043C\u043C\u0430\u0445 \u0441\u0434\u0435\
+        \u043B\u043E\u043A \u0441 **\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0430\
+        \u043C\u0438** \u0432 \u0440\u0430\u0437\u043D\u044B\u0445 \u043E\u043A\u0440\
+        \u0443\u0433\u0430\u0445: \u0441\u0430\u043C\u044B\u0439 \u0432\u044B\u0441\
+        \u043E\u043A\u0438\u0439 \u043E\u043A\u0440\u0443\u0433 \u0441\u043E\u043E\
+        \u0431\u0449\u0430\u0435\u0442 \u0432 \u0441\u0440\u0435\u0434\u043D\u0435\
+        \u043C \u043E 25,8T, \u0432 \u0442\u043E \u0432\u0440\u0435\u043C\u044F \u043A\
+        \u0430\u043A \u0432\u0442\u043E\u0440\u043E\u0439 \u043F\u043E \u0432\u0435\
+        \u043B\u0438\u0447\u0438\u043D\u0435 \u043E\u043A\u0440\u0443\u0433 \u0440\
+        \u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u0443\u0435\u0442 2,25T.\
+        \ \u042D\u0442\u0438 \u0440\u0430\u0437\u043B\u0438\u0447\u0438\u044F \u043C\
+        \u043E\u0433\u0443\u0442 \u0431\u044B\u0442\u044C \u043E\u0431\u044A\u044F\
+        \u0441\u043D\u0435\u043D\u044B \u0436\u0435\u043B\u0430\u0442\u0435\u043B\u044C\
+        \u043D\u043E\u0441\u0442\u044C\u044E \u043C\u0435\u0441\u0442\u043E\u043F\u043E\
+        \u043B\u043E\u0436\u0435\u043D\u0438\u044F, \u0431\u043B\u0438\u0437\u043E\
+        \u0441\u0442\u044C\u044E \u043A \u0443\u0434\u043E\u0431\u0441\u0442\u0432\
+        \u0430\u043C \u0438 \u0441\u043F\u0440\u043E\u0441\u043E\u043C \u043D\u0430\
+        \ \u043D\u0435\u0434\u0432\u0438\u0436\u0438\u043C\u043E\u0441\u0442\u044C\
+        . \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0430\u043D\u0430\
+        \u043B\u0438\u0437 \u0443\u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442\
+        \ \u043D\u0430 \u043D\u0435\u0440\u0430\u0432\u043D\u043E\u043C\u0435\u0440\
+        \u043D\u043E\u0435 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\
+        \u043D\u0438\u0435 \u0441\u0440\u0435\u0434\u043D\u0438\u0445 \u0440\u0430\
+        \u0437\u043C\u0435\u0440\u043E\u0432 \u0436\u0438\u043B\u043E\u0439 \u043F\
+        \u043B\u043E\u0449\u0430\u0434\u0438 **\u043A\u0432\u0430\u0440\u0442\u0438\
+        \u0440**, \u0432\u0430\u0440\u044C\u0438\u0440\u0443\u044E\u0449\u0438\u0445\
+        \u0441\u044F \u043E\u0442 30 \u0434\u043E 40 \u043A\u0432\u0430\u0434\u0440\
+        \u0430\u0442\u043D\u044B\u0445 \u043C\u0435\u0442\u0440\u043E\u0432. \u042D\
+        \u0442\u043E \u043D\u0435\u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\
+        \u0432\u0438\u0435 \u043F\u043E\u0434\u0440\u0430\u0437\u0443\u043C\u0435\u0432\
+        \u0430\u0435\u0442, \u0447\u0442\u043E \u043E\u043F\u0440\u0435\u0434\u0435\
+        \u043B\u0435\u043D\u043D\u044B\u0435 \u0440\u0430\u0439\u043E\u043D\u044B\
+        \ \u043C\u043E\u0433\u0443\u0442 \u043F\u0440\u0435\u0434\u043B\u0430\u0433\
+        \u0430\u0442\u044C \u0431\u043E\u043B\u0435\u0435 \u043F\u0440\u043E\u0441\
+        \u0442\u043E\u0440\u043D\u044B\u0435 \u0438\u043B\u0438 \u043A\u043E\u043C\
+        \u043F\u0430\u043A\u0442\u043D\u044B\u0435 \u0436\u0438\u043B\u044B\u0435\
+        \ \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F, \u0443\u0434\u043E\
+        \u0432\u043B\u0435\u0442\u0432\u043E\u0440\u044F\u044E\u0449\u0438\u0435 \u0440\
+        \u0430\u0437\u043B\u0438\u0447\u043D\u044B\u043C \u043F\u0440\u0435\u0434\u043F\
+        \u043E\u0447\u0442\u0435\u043D\u0438\u044F\u043C \u0438 \u043F\u043E\u0442\
+        \u0440\u0435\u0431\u043D\u043E\u0441\u0442\u044F\u043C \u043E\u0431\u0440\u0430\
+        \u0437\u0430 \u0436\u0438\u0437\u043D\u0438.\r\n\r\n## \u0412\u043E\u0437\u043C\
+        \u043E\u0436\u043D\u043E\u0435 \u0440\u0435\u0448\u0435\u043D\u0438\u0435\
+        \ \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B:\r\n\u0412\u043D\u0435\u0434\
+        \u0440\u044F\u0442\u044C \u043F\u043E\u043B\u0438\u0442\u0438\u043A\u0443\
+        \ \u0438 \u0441\u0442\u0438\u043C\u0443\u043B\u044B \u0432 \u043E\u0431\u043B\
+        \u0430\u0441\u0442\u0438 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u043E\u0433\
+        \u043E \u0436\u0438\u043B\u044C\u044F, \u043A\u043E\u0442\u043E\u0440\u044B\
+        \u0435 \u0442\u0440\u0435\u0431\u0443\u044E\u0442 \u043E\u0442 \u0437\u0430\
+        \u0441\u0442\u0440\u043E\u0439\u0449\u0438\u043A\u043E\u0432 \u0432\u043A\u043B\
+        \u044E\u0447\u0430\u0442\u044C \u043E\u043F\u0440\u0435\u0434\u0435\u043B\u0435\
+        \u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u0446\u0435\u043D\u0442 \u0434\
+        \u043E\u0441\u0442\u0443\u043F\u043D\u044B\u0445 \u043F\u043E \u0446\u0435\
+        \u043D\u0435 **\u043A\u0432\u0430\u0440\u0442\u0438\u0440** \u0432 \u0441\u0432\
+        \u043E\u0438 \u043F\u0440\u043E\u0435\u043A\u0442\u044B. \u042D\u0442\u0438\
+        \ \u043F\u0440\u0430\u0432\u0438\u043B\u0430 \u043C\u043E\u0433\u0443\u0442\
+        \ \u043F\u043E\u043C\u043E\u0447\u044C \u043E\u0431\u0435\u0441\u043F\u0435\
+        \u0447\u0438\u0442\u044C \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u043E\u0441\
+        \u0442\u044C \u0432\u0430\u0440\u0438\u0430\u043D\u0442\u043E\u0432 \u0436\
+        \u0438\u043B\u044C\u044F \u043F\u043E \u0431\u043E\u043B\u0435\u0435 \u0440\
+        \u0430\u0437\u0443\u043C\u043D\u044B\u043C \u0441\u0443\u043C\u043C\u0430\u043C\
+        \ \u0441\u0434\u0435\u043B\u043E\u043A \u0438 \u0440\u0430\u0437\u043C\u0435\
+        \u0440\u0430\u043C \u0436\u0438\u043B\u043E\u0439 \u043F\u043B\u043E\u0449\
+        \u0430\u0434\u0438."
+      height: 50
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW--1tTd_0vQ
+    type: MARKDOWN
+  MARKDOWN-cXaZffjCjC:
+    children: []
+    id: MARKDOWN-cXaZffjCjC
+    meta:
+      code: "\n## \u041E\u0441\u043D\u043E\u0432\u043D\u0430\u044F \u0447\u0430\u0441\
+        \u0442\u044C \u0432\u044B\u043F\u043B\u0430\u0442 \u0433\u0440\u0430\u0436\
+        \u0434\u0430\u043D\u0430\u043C \u043D\u0430\u0445\u043E\u0434\u0438\u0442\u0441\
+        \u044F \u0432 10 \u0440\u0430\u0439\u043E\u043D\u0430\u0445:\n\n- \u041F\u0440\
+        \u043E\u0432\u0435\u0441\u0442\u0438 \u0430\u043D\u0430\u043B\u0438\u0437\
+        \ \u043F\u0440\u0438\u0447\u0438\u043D, \u043F\u043E \u043A\u043E\u0442\u043E\
+        \u0440\u044B\u043C \u043E\u0441\u043D\u043E\u0432\u043D\u0430\u044F \u0447\
+        \u0430\u0441\u0442\u044C \u0432\u044B\u043F\u043B\u0430\u0442 \u043F\u0440\
+        \u0438\u0445\u043E\u0434\u0438\u0442\u0441\u044F \u0438\u043C\u0435\u043D\u043D\
+        \u043E \u043D\u0430 \u044D\u0442\u0438 \u0440\u0430\u0439\u043E\u043D\u044B\
+        . \u0412\u043E\u0437\u043C\u043E\u0436\u043D\u043E, \u044D\u0442\u043E \u0441\
+        \u0432\u044F\u0437\u0430\u043D\u043E \u0441 \u044D\u043A\u043E\u043D\u043E\
+        \u043C\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0430\u043A\u0442\u0438\u0432\
+        \u043D\u043E\u0441\u0442\u044C\u044E, \u0443\u0440\u043E\u0432\u043D\u0435\
+        \u043C \u0431\u0435\u0437\u0440\u0430\u0431\u043E\u0442\u0438\u0446\u044B\
+        , \u0434\u0435\u043C\u043E\u0433\u0440\u0430\u0444\u0438\u0447\u0435\u0441\
+        \u043A\u0438\u043C\u0438 \u043E\u0441\u043E\u0431\u0435\u043D\u043D\u043E\u0441\
+        \u0442\u044F\u043C\u0438 \u0438 \u0442.\u0434.\n\n- \u0420\u0430\u0437\u0440\
+        \u0430\u0431\u043E\u0442\u0430\u0442\u044C \u043F\u0440\u043E\u0433\u0440\u0430\
+        \u043C\u043C\u044B \u0438 \u0438\u043D\u0432\u0435\u0441\u0442\u0438\u0446\
+        \u0438\u043E\u043D\u043D\u044B\u0435 \u043F\u0440\u043E\u0435\u043A\u0442\u044B\
+        \ \u0434\u043B\u044F \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438\
+        \ \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u044F \u043C\u0435\u043D\u0435\
+        \u0435 \u0440\u0430\u0437\u0432\u0438\u0442\u044B\u0445 \u0440\u0430\u0439\
+        \u043E\u043D\u043E\u0432. \u042D\u0442\u043E \u043C\u043E\u0436\u0435\u0442\
+        \ \u0432\u043A\u043B\u044E\u0447\u0430\u0442\u044C \u0441\u0442\u0438\u043C\
+        \u0443\u043B\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435 \u043C\u0430\u043B\
+        \u043E\u0433\u043E \u0438 \u0441\u0440\u0435\u0434\u043D\u0435\u0433\u043E\
+        \ \u0431\u0438\u0437\u043D\u0435\u0441\u0430, \u0441\u043E\u0437\u0434\u0430\
+        \u043D\u0438\u0435 \u043D\u043E\u0432\u044B\u0445 \u0440\u0430\u0431\u043E\
+        \u0447\u0438\u0445 \u043C\u0435\u0441\u0442, \u0443\u043B\u0443\u0447\u0448\
+        \u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u0440\u0430\u0441\u0442\u0440\u0443\
+        \u043A\u0442\u0443\u0440\u044B \u0438 \u043E\u0431\u0440\u0430\u0437\u043E\
+        \u0432\u0430\u043D\u0438\u044F.\n\n## \u0411\u043E\u043B\u044C\u0448\u0443\
+        \u044E \u0447\u0430\u0441\u0442\u044C \u0434\u0435\u043D\u0435\u0433 \u043F\
+        \u043E\u043B\u0443\u0447\u0430\u044E\u0442 \u0432 \u043E\u0441\u043D\u043E\
+        \u0432\u043D\u043E\u043C \u043B\u044E\u0434\u0438 40+ \u043B\u0435\u0442 \u043D\
+        \u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u043F\u043E\u0434\
+        \u0430\u0432\u043B\u044F\u044E\u0449\u0435\u0435 \u043A\u043E\u043B\u0438\u0447\
+        \u0435\u0441\u0442\u0432\u043E \u043C\u043E\u043B\u043E\u0434\u0435\u0436\u0438\
+        :\n\n- \u041F\u0440\u043E\u0432\u0435\u0441\u0442\u0438 \u0438\u0441\u0441\
+        \u043B\u0435\u0434\u043E\u0432\u0430\u043D\u0438\u0435 \u0434\u043B\u044F\
+        \ \u043F\u043E\u043D\u0438\u043C\u0430\u043D\u0438\u044F \u043F\u0440\u0438\
+        \u0447\u0438\u043D \u0442\u0430\u043A\u043E\u0433\u043E \u0440\u0430\u0441\
+        \u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u0438\u044F \u0434\u043E\u0445\
+        \u043E\u0434\u043E\u0432. \u0412\u043E\u0437\u043C\u043E\u0436\u043D\u043E\
+        , \u044D\u0442\u043E \u0441\u0432\u044F\u0437\u0430\u043D\u043E \u0441 \u0440\
+        \u0430\u0437\u043B\u0438\u0447\u043D\u044B\u043C\u0438 \u0443\u0440\u043E\u0432\
+        \u043D\u044F\u043C\u0438 \u0437\u0430\u043D\u044F\u0442\u043E\u0441\u0442\u0438\
+        , \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u0438\u044F, \u0434\
+        \u043E\u0441\u0442\u0443\u043F\u0430 \u043A \u0440\u0435\u0441\u0443\u0440\
+        \u0441\u0430\u043C \u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\
+        \u0441\u0442\u044F\u043C \u043C\u043E\u043B\u043E\u0434\u0435\u0436\u0438\
+        .\n\n- \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\u0442\u044C\
+        \ \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u0438 \u043C\u0435\
+        \u0440\u043E\u043F\u0440\u0438\u044F\u0442\u0438\u044F, \u043D\u0430\u043F\
+        \u0440\u0430\u0432\u043B\u0435\u043D\u043D\u044B\u0435 \u043D\u0430 \u043F\
+        \u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0443 \u043C\u043E\u043B\u043E\u0434\
+        \u0435\u0436\u0438 \u0438 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\
+        \u0435 \u0438\u0445 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u0447\u0435\
+        \u0441\u043A\u043E\u0433\u043E \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\
+        \u044F. \u042D\u0442\u043E \u043C\u043E\u0436\u0435\u0442 \u0432\u043A\u043B\
+        \u044E\u0447\u0430\u0442\u044C \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\
+        \u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\
+        \u043C\u043C\u044B, \u0441\u0442\u0438\u043C\u0443\u043B\u0438\u0440\u043E\
+        \u0432\u0430\u043D\u0438\u0435 \u043F\u0440\u0435\u0434\u043F\u0440\u0438\u043D\
+        \u0438\u043C\u0430\u0442\u0435\u043B\u044C\u0441\u043A\u043E\u0439 \u0430\u043A\
+        \u0442\u0438\u0432\u043D\u043E\u0441\u0442\u0438 \u0441\u0440\u0435\u0434\u0438\
+        \ \u043C\u043E\u043B\u043E\u0434\u0435\u0436\u0438, \u043E\u0431\u0435\u0441\
+        \u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u0434\u043E\u0441\u0442\u0443\u043F\
+        \u0430 \u043A \u0444\u0438\u043D\u0430\u043D\u0441\u043E\u0432\u044B\u043C\
+        \ \u0440\u0435\u0441\u0443\u0440\u0441\u0430\u043C \u0434\u043B\u044F \u0441\
+        \u0442\u0430\u0440\u0442\u0430 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\
+        \u043D\u043E\u0433\u043E \u0431\u0438\u0437\u043D\u0435\u0441\u0430 \u0438\
+        \ \u0434\u0440.\n\n## \u0412 \u0441\u0440\u0435\u0434\u043D\u0435\u043C \u043F\
+        \u0440\u043E\u0446\u0435\u043D\u0442 \u043D\u0435\u0442\u0440\u0443\u0434\u043E\
+        \u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u0445 \u043B\u044E\u0434\u0435\
+        \u0439 \u0441\u043E\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 40%:\n\
+        \n- \u041F\u0440\u043E\u0432\u0435\u0441\u0442\u0438 \u0430\u043D\u0430\u043B\
+        \u0438\u0437 \u043F\u0440\u0438\u0447\u0438\u043D \u0432\u044B\u0441\u043E\
+        \u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0446\u0435\u043D\u0442\u0430\
+        \ \u043D\u0435\u0442\u0440\u0443\u0434\u043E\u0441\u043F\u043E\u0441\u043E\
+        \u0431\u043D\u044B\u0445 \u043B\u044E\u0434\u0435\u0439. \u042D\u0442\u043E\
+        \ \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u0441\u0432\u044F\
+        \u0437\u0430\u043D\u043E \u0441 \u043C\u0435\u0434\u0438\u0446\u0438\u043D\
+        \u0441\u043A\u0438\u043C\u0438, \u0441\u043E\u0446\u0438\u0430\u043B\u044C\
+        \u043D\u044B\u043C\u0438 \u0438 \u044D\u043A\u043E\u043D\u043E\u043C\u0438\
+        \u0447\u0435\u0441\u043A\u0438\u043C\u0438 \u0444\u0430\u043A\u0442\u043E\u0440\
+        \u0430\u043C\u0438.\n\n- \u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u0430\
+        \u0442\u044C \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B \u043F\
+        \u043E\u0434\u0434\u0435\u0440\u0436\u043A\u0438 \u0434\u043B\u044F \u043B\
+        \u044E\u0434\u0435\u0439 \u0441 \u043E\u0433\u0440\u0430\u043D\u0438\u0447\
+        \u0435\u043D\u043D\u044B\u043C\u0438 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\
+        \u043E\u0441\u0442\u044F\u043C\u0438, \u043A\u043E\u0442\u043E\u0440\u044B\
+        \u0435 \u043F\u043E\u0437\u0432\u043E\u043B\u044F\u0442 \u0438\u043C \u0431\
+        \u044B\u0442\u044C \u0431\u043E\u043B\u0435\u0435 \u0441\u0430\u043C\u043E\
+        \u0441\u0442\u043E\u044F\u0442\u0435\u043B\u044C\u043D\u044B\u043C\u0438 \u0438\
+        \ \u0432\u043A\u043B\u044E\u0447\u0435\u043D\u043D\u044B\u043C\u0438 \u0432\
+        \ \u043E\u0431\u0449\u0435\u0441\u0442\u0432\u043E. \u042D\u0442\u043E \u043C\
+        \u043E\u0436\u0435\u0442 \u0432\u043A\u043B\u044E\u0447\u0430\u0442\u044C\
+        \ \u0440\u0435\u0430\u0431\u0438\u043B\u0438\u0442\u0430\u0446\u0438\u043E\
+        \u043D\u043D\u044B\u0435 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\
+        , \u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435 \u043D\u043E\u0432\u044B\
+        \u043C \u043D\u0430\u0432\u044B\u043A\u0430\u043C, \u0441\u043E\u0437\u0434\
+        \u0430\u043D\u0438\u0435 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u043E\u0439\
+        \ \u0438\u043D\u0444\u0440\u0430\u0441\u0442\u0440\u0443\u043A\u0442\u0443\
+        \u0440\u044B \u0438 \u0443\u0441\u043B\u0443\u0433.\n"
+      height: 50
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-2h6vGTuHNS
+    type: MARKDOWN
+  MARKDOWN-nE0HRrv7Xg:
+    children: []
+    id: MARKDOWN-nE0HRrv7Xg
+    meta:
+      code: "- \u0421\u043E\u0433\u043B\u0430\u0441\u043D\u043E \u0430\u043D\u0430\
+        \u043B\u0438\u0437\u0443 \u0434\u0430\u043D\u043D\u044B\u0445 \u043E \u043F\
+        \u043E\u043B\u0443\u0447\u0435\u043D\u0438\u0438 \u0433\u043E\u0441. \u0443\
+        \u0441\u043B\u0443\u0433, \r\n\u043F\u043E \u0410\u043B\u043C\u0430\u0442\u0438\
+        \u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438\
+        \ \u0433\u043E\u0441. \u0443\u0441\u043B\u0443\u0433\u0430\u043C\u0438 \u043F\
+        \u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u0438\u0441\u044C \r\n589\
+        \ \u0442\u044B\u0441. \u0447\u0435\u043B\u043E\u0432\u0435\u043A, \u0438 \u043F\
+        \u043E\u0447\u0442\u0438 \u043F\u043E\u043B\u043E\u0432\u0438\u043D\u0430\
+        \ \u0438\u0437 \u043D\u0438\u0445 - 241 \u0442\u044B\u0441. \u043F\u043E\u043B\
+        \u0443\u0447\u0438\u043B\u0438 \u0443\u0441\u043B\u0443\u0433\u0443  \u0441\
+        \ \u0437\u0430\u0434\u0435\u0440\u0436\u043A\u043E\u0439.\r\n\u041F\u043E\u0445\
+        \u043E\u0436\u0430\u044F \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044F\
+        \ \u0438 \u0432 \u0433. \u0410\u043B\u043C\u0430\u0442\u044B.\r\n\u0414\u0430\
+        \u043D\u043D\u0430\u044F \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0430\
+        \ \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u043E\
+        \u0442\u0434\u0435\u043B\u044C\u043D\u043E \u043F\u0440\u0430\u043A\u0442\u0438\
+        \u0447\u0435\u0441\u043A\u0438 \u0432 \u043A\u0430\u0436\u0434\u043E\u043C\
+        \ \u0440\u0430\u0439\u043E\u043D\u0435 \u0410\u043B\u043C\u0430\u0442\u0438\
+        \u043D\u0441\u043A\u043E\u0439 \u043E\u0431\u043B\u0430\u0441\u0442\u0438\
+        .\r\n\u0414\u043B\u044F \u043D\u0430\u0433\u043B\u044F\u0434\u043D\u043E\u0441\
+        \u0442\u0438, \u0443\u0441\u043B\u0443\u0433\u0430\u043C\u0438 \u0434\u0435\
+        \u043F\u0430\u0440\u0442\u0430\u043C\u0435\u043D\u0442\u0430 \u043F\u043E\u043B\
+        \u0438\u0446\u0438\u0438 \u0433. \u0410\u043B\u043C\u0430\u0442\u044B \u043F\
+        \u043E\u043B\u044C\u0437\u043E\u0432\u0430\u043B\u043E\u0441\u044C 293 \u0442\
+        \u044B\u0441. \u0447\u0435\u043B\u043E\u0432\u0435\u043A, 292 \u0442\u044B\
+        \u0441. \r\n\u0438\u0437 \u043D\u0438\u0445 \u043F\u043E\u043B\u0443\u0447\
+        \u0438\u043B\u0438 \u0443\u0441\u043B\u0443\u0433\u0443 \u043D\u0435\u0441\
+        \u0432\u043E\u0435\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E.\u0412\u0441\
+        \u0435 \u0437\u0430\u0434\u0435\u0440\u0436\u0430\u043D\u043D\u044B\u0435\
+        \ \u0443\u0441\u043B\u0443\u0433\u0438 \u0431\u044B\u043B\u0438 \u043F\u043E\
+        \u043B\u0443\u0447\u0435\u043D\u044B \u0447\u0435\u0440\u0435\u0437 \u0438\
+        \u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u0443\u044E\
+        \ \u0441\u0438\u0441\u0442\u0435\u043C\u0443 \r\n\u0410\u0420\u041C \u0421\
+        \u0426\u041E\u041D, \u0447\u0442\u043E \u043D\u0430\u043C\u0435\u043A\u0430\
+        \u0435\u0442 \u043D\u0430 \u043D\u0438\u0437\u043A\u0443\u044E \u043F\u0440\
+        \u043E\u0438\u0437\u0432\u043E\u0434\u0438\u0442\u0435\u043B\u044C\u043D\u043E\
+        \u0441\u0442\u044C \u0441\u0438\u0441\u0442\u0435\u043C\u044B.\r\n\r\n- \u0421\
+        \u043E \u0441\u0445\u043E\u0436\u0435\u0439 \u043F\u0440\u043E\u0431\u043B\
+        \u0435\u043C\u043E\u0439 \u0441\u0442\u0430\u043B\u043A\u0438\u0432\u0430\u0435\
+        \u0442\u0441\u044F \u0430\u043F\u043F\u0430\u0440\u0430\u0442 \u043E\u0442\
+        \u0434\u0435\u043B\u0430 \u043C\u0438\u0433\u0440\u0430\u0446\u0438\u043E\u043D\
+        \u043D\u043E\u0439 \u043F\u043E\u043B\u0438\u0446\u0438\u0438 \u0423\u0412\
+        \u0414 \u043C\u043D\u043E\u0433\u0438\u0445 \u0440\u0430\u0439\u043E\u043D\
+        \u043E\u0432 \u0410\u043B\u043C\u0430\u0442\u0438\u043D\u0441\u043A\u043E\u0439\
+        \ \u043E\u0431\u043B\u0430\u0441\u0442\u0438.\r\n\u0412 \u044D\u0442\u043E\
+        \u0442 \u0440\u0430\u0437 \u043D\u0438\u0437\u043A\u0443\u044E \u044D\u0444\
+        \u0444\u0435\u043A\u0442\u0438\u0432\u043D\u043E\u0441\u0442\u044C \u043F\u043E\
+        \u043A\u0430\u0437\u044B\u0432\u0430\u0435\u0442 \u0441\u0438\u0441\u0442\u0435\
+        \u043C\u0430 \u0420\u041F \u0414\u0420\u041D - \"\u0420\u0435\u0433\u0438\u0441\
+        \u0442\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0439 \u043F\u0443\u043D\
+        \u043A\u0442 \"\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u0438\u0440\
+        \u043E\u0432\u0430\u043D\u0438\u0435 \u0438 \u0440\u0435\u0433\u0438\u0441\
+        \u0442\u0440\u0430\u0446\u0438\u044F \u043D\u0430\u0441\u0435\u043B\u0435\u043D\
+        \u0438\u044F\".\r\n\r\n\r\n- \u0414\u043B\u044F \u0440\u0435\u0448\u0435\u043D\
+        \u0438\u044F \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\
+        \u044E\u0449\u0438\u0445 \u043F\u0440\u043E\u0431\u043B\u0435\u043C, \u043F\
+        \u0440\u0435\u0436\u0434\u0435 \u0432\u0441\u0435\u0433\u043E \u043F\u0440\
+        \u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F \u043F\u0435\u0440\
+        \u0435\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0441\u0442\u0440\u0443\
+        \u043A\u0442\u0443\u0440\u0443 \u0441\u0438\u0441\u0442\u0435\u043C, \u0432\
+        \u044B\u044F\u0432\u0438\u0442\u044C \u043D\u0435\u0434\u043E\u0441\u0442\u0430\
+        \u0442\u043A\u0438 \u0432 \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\
+        \u043D\u0438\u0438.\r\n- \u041F\u043E\u0432\u044B\u0448\u0435\u043D\u0438\u0435\
+        \ \u043E\u0441\u0432\u0435\u0434\u043E\u043C\u043B\u0435\u043D\u043D\u043E\
+        \u0441\u0442\u0438\u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u044F:\
+        \ \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0442\u044C \u0438\u043D\u0444\
+        \u043E\u0440\u043C\u0430\u0446\u0438\u043E\u043D\u043D\u044B\u0435 \u043A\u0430\
+        \u043C\u043F\u0430\u043D\u0438\u0438 \u0438 \r\n\u043E\u0431\u0440\u0430\u0437\
+        \u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0435 \u043C\u0435\u0440\
+        \u043E\u043F\u0440\u0438\u044F\u0442\u0438\u044F,\u043D\u0430\u043F\u0440\u0430\
+        \u0432\u043B\u0435\u043D\u043D\u044B\u0435 \u043D\u0430 \u043F\u043E\u0432\
+        \u044B\u0448\u0435\u043D\u0438\u0435 \u043E\u0441\u0432\u0435\u0434\u043E\u043C\
+        \u043B\u0435\u043D\u043D\u043E\u0441\u0442\u0438 \u043E\u0431 \u0438\u043C\
+        \u0435\u044E\u0449\u0438\u0445\u0441\u044F \r\n\u0433\u043E\u0441\u0443\u0434\
+        \u0430\u0440\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0445 \u0443\u0441\u043B\
+        \u0443\u0433\u0430\u0445 \u0438 \u043F\u0440\u043E\u0446\u0435\u0434\u0443\
+        \u0440\u0430\u0445 \u0434\u043E\u0441\u0442\u0443\u043F\u0430 \u043A \u043D\
+        \u0438\u043C."
+      height: 50
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-Ht1VFNy2Ir
+    type: MARKDOWN
+  MARKDOWN-wE5gE5wk-G:
+    children: []
+    id: MARKDOWN-wE5gE5wk-G
+    meta:
+      code: "- \u0421\u043E\u0433\u043B\u0430\u0441\u043D\u043E \u0434\u0430\u043D\
+        \u043D\u044B\u043C \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u044B\u043C\
+        \ \u043F\u043E\u0441\u043B\u0435 \u0430\u043D\u0430\u043B\u0438\u0437\u0430\
+        \ \u0434\u0430\u043D\u043D\u044B\u0445, \u044F\u0441\u043D\u043E \u0447\u0442\
+        \u043E \u0441\u0440\u0435\u0434\u0438 \u043F\u043E\u0442\u0440\u0435\u0431\
+        \u0438\u0442\u0435\u043B\u0435\u0439 \u043F\u0440\u0435\u043F\u0430\u0440\u0430\
+        \u0442\u043E\u0432 \u0441\u0438\u043B\u044C\u043D\u043E \u0432\u044B\u0434\
+        \u0435\u043B\u044F\u044E\u0442\u0441\u044F \r\n\u0434\u0432\u0435 \u0433\u0440\
+        \u0443\u043F\u043F\u044B \u0431\u043E\u043B\u0435\u0437\u043D\u0435\u0439\
+        : \u0430\u0440\u0442\u0435\u0440\u0438\u0430\u043B\u044C\u043D\u0430\u044F\
+        \ \u0433\u0438\u043F\u0435\u0440\u0442\u0435\u043D\u0437\u0438\u044F (1260)\
+        \ \u0438 \u0441\u0430\u0445\u0430\u0440\u043D\u044B\u0439 \u0434\u0438\u0430\
+        \u0431\u0435\u0442 (996). \u0421\u043E\u043F\u043E\u0441\u0442\u0430\u0432\
+        \u0438\u0432 \u0434\u0430\u043D\u043D\u044B\u0435\r\n\u0441 \u043E\u0442\u0447\
+        \u0435\u0442\u043D\u043E\u0441\u0442\u044C\u044E \u043F\u043E\u0442\u0440\u0435\
+        \u0431\u043B\u0435\u043D\u0438\u044F \u043F\u0440\u0435\u043F\u0430\u0440\u0430\
+        \u0442\u043E\u0432 \u043E\u0442 \u0434\u0430\u043D\u043D\u044B\u0445 \u0431\
+        \u043E\u043B\u0435\u0437\u043D\u0435\u0439, \u043C\u043E\u0436\u043D\u043E\
+        \ \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0432\u044B\u0432\u043E\u0434\
+        , \u0447\u0442\u043E \u0434\u0432\u0435 \u0441\u0430\u043C\u044B\u0435 \u0440\
+        \u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0435\u043D\u043D\
+        \u044B\u0435 \u0431\u043E\u043B\u0435\u0437\u043D\u0438 \u0432\u0441\u0442\
+        \u0440\u0435\u0447\u0430\u044E\u0442\u0441\u044F \u0432 \u041A\u043E\u043A\
+        \u0441\u0443\u043A\u0441\u043A\u043E\u043C \u0438 \u041A\u0430\u0440\u0430\
+        \u0441\u0430\u0439\u0441\u043A\u043E\u043C \u0440\u0430\u0439\u043E\u043D\u0430\
+        \u0445.\r\n\u0421\u0442\u043E\u0438\u0442 \u043E\u0442\u043C\u0435\u0442\u0438\
+        \u0442\u044C, \u0447\u0442\u043E \u0431\u043E\u043B\u044C\u0448\u0430\u044F\
+        \ \u0447\u0430\u0441\u0442\u044C \u0431\u043E\u043B\u044C\u043D\u044B\u0445\
+        \ - \u0433\u0440\u0430\u0436\u0434\u0430\u043D\u0435 \u043C\u0443\u0436\u0441\
+        \u043A\u043E\u0433\u043E \u043F\u043E\u043B\u0430.\r\n\r\n- \u0412 \u043A\u0430\
+        \u0447\u0435\u0441\u0442\u0432\u0435 \u0440\u0435\u0448\u0435\u043D\u0438\u044F\
+        \ \u043F\u0440\u0435\u0434\u043B\u0430\u0433\u0430\u0435\u0442\u0441\u044F\
+        \ \u043E\u0431\u0440\u0430\u0449\u0435\u043D\u0438\u0435 \u0432 \u043C\u0435\
+        \u0441\u0442\u043D\u044B\u0435 \u0430\u043F\u043F\u0430\u0440\u0430\u0442\u044B\
+        \ \u0437\u0434\u0440\u0430\u0432\u043E\u043E\u0445\u0440\u0430\u043D\u0435\
+        \u043D\u0438\u044F. \u041F\u0440\u0435\u0434\u043E\u0441\u0442\u0430\u0432\
+        \u043B\u0435\u043D\u0438\u0435 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\
+        \u0438\u0438 \u043E \u0440\u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\
+        \u0430\u043D\u0435\u043D\u043D\u044B\u0445 \u0430\u043A\u0442\u0443\u0430\u043B\
+        \u044C\u043D\u044B\u0445 \u0440\u0435\u0446\u0435\u043F\u0442\u043E\u0432\
+        \ \u043C\u043E\u0436\u0435\u0442 \u043F\u043E\u0441\u043B\u0443\u0436\u0438\
+        \u0442\u044C\r\n\u043F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0434\u043B\
+        \u044F \u043D\u0430\u0447\u0430\u043B\u0430 \u043F\u0440\u043E\u0433\u0440\
+        \u0430\u043C\u043C \u043F\u0440\u043E\u0444\u0438\u043B\u0430\u043A\u0442\u0438\
+        \u0447\u0435\u0441\u043A\u0438\u0445 \u043C\u0435\u0440."
+      height: 50
+      width: 12
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    - ROW-ayLsvtGl3u
+    type: MARKDOWN
+  ROOT_ID:
+    children:
+    - GRID_ID
+    id: ROOT_ID
+    type: ROOT
+  ROW--1tTd_0vQ:
+    children:
+    - MARKDOWN--QyOFKy81u
+    id: ROW--1tTd_0vQ
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-0TzjM6I3D7:
+    children:
+    - CHART-explore-266-1
+    - CHART-explore-261-1
+    - CHART-explore-267-1
+    id: ROW-0TzjM6I3D7
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-2h6vGTuHNS:
+    children:
+    - MARKDOWN-cXaZffjCjC
+    id: ROW-2h6vGTuHNS
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-9fH8gvjlyR:
+    children:
+    - CHART-zzaSt8jIEr
+    - CHART-XeKEcjewlD
+    id: ROW-9fH8gvjlyR
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-BMah26QkR_:
+    children:
+    - CHART-bRdULe3PDq
+    id: ROW-BMah26QkR_
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-C-Igbbqgsn:
+    children:
+    - CHART-o1Pnd8ZZax
+    - CHART-O0DdUX4ijo
+    id: ROW-C-Igbbqgsn
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-DwDgA8_9Cj:
+    children:
+    - CHART-u8b6Y_9T-Z
+    - CHART-YTZ-Upu6bU
+    - CHART-OtSZfGd2kt
+    id: ROW-DwDgA8_9Cj
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-Ht1VFNy2Ir:
+    children:
+    - MARKDOWN-nE0HRrv7Xg
+    id: ROW-Ht1VFNy2Ir
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-RM5BI9bXc:
+    children:
+    - CHART-explore-322-1
+    - CHART-explore-321-1
+    id: ROW-RM5BI9bXc
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-W9vxdHr1Z3:
+    children:
+    - CHART-V4QBBuZg8_
+    - CHART-kQ00zVM20O
+    id: ROW-W9vxdHr1Z3
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-ayLsvtGl3u:
+    children:
+    - MARKDOWN-wE5gE5wk-G
+    id: ROW-ayLsvtGl3u
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-bjn3nAmlaK:
+    children:
+    - CHART-aLLm_oJv_p
+    - CHART-wGveat3eCF
+    id: ROW-bjn3nAmlaK
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-pnRsxRvOx9:
+    children:
+    - CHART-explore-318-1
+    - CHART-explore-319-1
+    - CHART-explore-320-1
+    id: ROW-pnRsxRvOx9
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-sBwUsxP_c:
+    children:
+    - CHART-explore-264-1
+    - CHART-explore-258-1
+    id: ROW-sBwUsxP_c
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-u57mYGwQtq:
+    children:
+    - CHART-explore-269-1
+    id: ROW-u57mYGwQtq
+    meta:
+      '0': ROOT_ID
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+  ROW-xa0C22DFUv:
+    children:
+    - CHART-dTCbbMmfZu
+    id: ROW-xa0C22DFUv
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - GRID_ID
+    type: ROW
+metadata:
+  chart_configuration:
+    '102':
+      id: 102
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '103':
+      id: 103
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '104':
+      id: 104
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '105':
+      id: 105
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '106':
+      id: 106
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '107':
+      id: 107
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '108':
+      id: 108
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '110':
+      id: 110
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '111':
+      id: 111
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '113':
+      id: 113
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '115':
+      id: 115
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '117':
+      id: 117
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '118':
+      id: 118
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '119':
+      id: 119
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '120':
+      id: 120
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '121':
+      id: 121
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 122
+        - 123
+        - 124
+        - 125
+        - 126
+    '123':
+      id: 123
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 124
+        - 125
+        - 126
+    '124':
+      id: 124
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 125
+        - 126
+    '125':
+      id: 125
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 126
+    '126':
+      id: 126
+      crossFilters:
+        scope: global
+        chartsInScope:
+        - 102
+        - 103
+        - 104
+        - 105
+        - 106
+        - 107
+        - 108
+        - 109
+        - 110
+        - 111
+        - 112
+        - 113
+        - 115
+        - 116
+        - 117
+        - 118
+        - 119
+        - 120
+        - 121
+        - 122
+        - 123
+        - 124
+        - 125
+  global_chart_configuration:
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    chartsInScope:
+    - 102
+    - 103
+    - 104
+    - 105
+    - 106
+    - 107
+    - 108
+    - 109
+    - 110
+    - 111
+    - 112
+    - 113
+    - 115
+    - 116
+    - 117
+    - 118
+    - 119
+    - 120
+    - 121
+    - 122
+    - 123
+    - 124
+    - 125
+    - 126
+  color_scheme: ''
+  refresh_frequency: 0
+  shared_label_colors:
+    '0': '#1FA8C9'
+    '1': '#454E7C'
+    "\u0421\u0438\u043C\u043F\u043E\u043D\u0438\xAE": '#A868B7'
+    "\u0417\u043E\u043B\u0430\u0434\u0435\u043A\u0441\u2122": '#5AC189'
+    "\u0417\u043E\u043B\u0430\u0434\u0435\u043A\u0441": '#A1A6BD'
+    "\u0414\u0438\u0444\u0435\u0440\u0435\u043B\u0438\u043D\xAE 3,75 \u043C\u0433": '#A868B7'
+    "\u0414\u0438\u0444\u0435\u0440\u0435\u043B\u0438\u043D\xAE 11,25 \u043C\u0433": '#FF7F44'
+    "\u041E\u043A\u0430\u0437\u0430\u043D\u043D\u0430\u044F \u0423\u0441\u043B\u0443\u0433\u0430": '#E04355'
+    "\u0417\u0430\u0434\u0435\u0440\u0436\u043A\u0430 \u0423\u0441\u043B\u0443\u0433\u0438": '#FCC700'
+    "\u041E\u043A\u0430\u0437\u0430\u043D\u043D\u044B\u0435 \u0423\u0441\u043B\u0443\u0433\u0438": '#666666'
+    "\u041F\u0440\u0438\u0431\u044B\u043B\u044C": '#1FA8C9'
+    "\u0416\u0435\u043D\u0441\u043A\u0438\u0439": '#A38F79'
+    "\u041C\u0443\u0436\u0441\u043A\u043E\u0439": '#ACE1C4'
+    "\u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u0432\u0448\u0438\u0435 \u0432 \u0431\u0440\u0430\u043A\u0435": '#8FD3E4'
+    "\u0432 \u0431\u0440\u0430\u043A\u0435": '#B2B2B2'
+    "\u0440\u0430\u0437\u0432\u0435\u0434\u0435\u043D": '#FDE380'
+    "\u0432\u0434\u043E\u0432\u044B\u0435": '#9EE5E5'
+    "\u041A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043B\u044E\u0434\u0435\u0439": '#1FA8C9'
+    "\u0422\u0440\u0443\u0434\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u0435": '#EFA1AA'
+    "\u041D\u0435 \u0442\u0440\u0443\u0434\u043E\u0441\u043F\u043E\u0441\u043E\u0431\u043D\u044B\u0435": '#D1C6BC'
+    "\u0421\u0440\u0435\u0434\u043D\u0435\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435 \u0436\u0438\u043B. \u043F\u043B\u043E\u0449\u0430\u0434\u0438": '#1FA8C9'
+    "\u041C\u0438\u043D\u0438\u043C\u0430\u043B\u044C\u043D\u043E\u0435 \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435 \u0436\u0438\u043B. \u043F\u043B\u043E\u0449\u0430\u0434\u0438": '#454E7C'
+    "\u0417\u0435\u043C\u0435\u043B\u044C\u043D\u044B\u0439 \u0443\u0447\u0430\u0441\u0442\u043E\u043A": '#D3B3DA'
+    "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430": '#454E7C'
+    "\u0427\u0430\u0441\u0442\u043D\u044B\u0439 \u0434\u043E\u043C": '#5AC189'
+    "\u0421\u0442\u0440\u043E\u0435\u043D\u0438\u0435": '#FF7F44'
+    "\u0421\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u0435": '#666666'
+    "\u0413\u0430\u0440\u0430\u0436": '#E04355'
+    "\u041F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435": '#FCC700'
+    "\u0414\u0430\u0447\u0430": '#A868B7'
+    "\u041F\u0430\u0440\u043A\u043E\u0432\u043E\u0447\u043D\u043E\u0435 \u043C\u0435\u0441\u0442\u043E": '#3CCCCB'
+    "\u041E\u0441\u043D\u043E\u0432\u043D\u043E\u0435 \u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435": '#A38F79'
+    "\u0412\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043Ee \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435": '#8FD3E4'
+    "\u0417\u0434\u0430\u043D\u0438\u0435": '#A1A6BD'
+    "\u041C\u043D\u043E\u0433\u043E\u043A\u0432\u0430\u0440\u0442\u0438\u0440\u043D\u044B\u0439 \u0434\u043E\u043C": '#ACE1C4'
+    "\u041C\u0430\u0433\u0430\u0437\u0438\u043D": '#FEC0A1'
+    "\u0421\u043B\u0443\u0436\u0435\u0431\u043D\u043E\u0435 \u0441\u0442\u0440\u043E\u0435\u043D\u0438\u0435": '#B2B2B2'
+    "\u0425\u043E\u043B\u043E\u0434\u043D\u0430\u044F \u043F\u0440\u0438\u0441\u0442\u0440\u043E\u0439\u043A\u0430": '#EFA1AA'
+    "\u041F\u0440\u043E\u0447\u0435\u0435 \u0412\u041E": '#FDE380'
+    "\u041F\u0440\u043E\u0447\u0435\u0435 \u041F\u041E": '#D3B3DA'
+    "\u0418\u043C\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u043A\u043E\u043C\u043F\u043B\u0435\u043A\u0441": '#9EE5E5'
+    "\u041F\u0440\u043E\u0447\u0435\u0435": '#D1C6BC'
+    "\u0412\u043D\u0443\u0442\u0440\u0438\u0434\u0432\u043E\u0440\u043E\u0432\u043E\u0435 \u0441\u043E\u043E\u0440\u0443\u0436\u0435\u043D\u0438\u0435": '#1FA8C9'
+    "\u0410\u043F\u0442\u0435\u043A\u0430": '#454E7C'
+    "\u0416\u0435\u043B\u0435\u0437\u043D\u043E\u0434\u043E\u0440\u043E\u0436\u043D\u044B\u0435 \u043F\u0443\u0442\u0438": '#5AC189'
+    "\u0412\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E-\u043F\u0440\u0438\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0435 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435": '#FF7F44'
+    "\u0421\u0430\u0440\u0430\u0439": '#666666'
+    "\u041F\u0430\u0440\u043A": '#E04355'
+    "\u041F\u0440\u0438\u0441\u0442\u0440\u043E\u0435\u043D\u043D\u043E\u0435 \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u0435": '#FCC700'
+    "\u0422\u043E\u0440\u0433\u043E\u0432\u044B\u0439 \u0434\u043E\u043C": '#A868B7'
+    "\u0411\u0430\u043D\u044F": '#3CCCCB'
+    "\u041B\u0438\u043D\u0438\u0438 \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u043F\u0435\u0440\u0435\u0434\u0430\u0447": '#A38F79'
+    "\u041F\u0435\u0440\u0432\u0438\u0447\u043D\u044B\u0439 \u043E\u0431\u044A\u0435\u043A\u0442": '#8FD3E4'
+    "\u0422\u043E\u043D\u043D\u0435\u043B\u044C": '#A1A6BD'
+    "\u0420\u044B\u043D\u043E\u043A": '#ACE1C4'
+    "\u041F\u0443\u0442\u0435\u043F\u0440\u043E\u0432\u043E\u0434": '#FEC0A1'
+    <NULL>: '#B2B2B2'
+    "\u0410\u043B\u043C\u0430\u0442\u0438\u043D\u0441\u043A\u0430\u044F \u043E\u0431\u043B\u0430\u0441\u0442\u044C": '#1FA8C9'
+    "\u0433. \u0410\u043B\u043C\u0430\u0442\u044B": '#454E7C'
+    "\u0421\u0443\u043C\u043C\u0430 \u0441\u0434\u0435\u043B\u043A\u0438": '#1FA8C9'
+  color_scheme_domain: []
+  expanded_slices: {}
+  label_colors: {}
+  timed_refresh_immune_slices: []
+  cross_filters_enabled: true
+  default_filters: '{}'
+  native_filter_configuration:
+  - id: NATIVE_FILTER-oXGAXkuyX
+    controlValues:
+      enableEmptyFilter: false
+      defaultToFirstItem: false
+      multiSelect: true
+      searchAllOptions: false
+      inverseSelection: false
+    name: Pharm
+    filterType: filter_select
+    targets:
+    - column:
+        name: PHARM_NAME
+      datasetUuid: 0fa6b8b7-d129-448f-8c39-4af76d5fa0c9
+    defaultDataMask:
+      extraFormData: {}
+      filterState: {}
+      ownState: {}
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 258
+    - 261
+    - 264
+    - 266
+    - 267
+    - 269
+    - 274
+    - 275
+    - 276
+    - 277
+    - 278
+    - 318
+    tabsInScope: []
+  - id: NATIVE_FILTER-rwTK7hTXF
+    controlValues:
+      enableEmptyFilter: false
+      defaultToFirstItem: false
+      multiSelect: true
+      searchAllOptions: false
+      inverseSelection: false
+    name: Disease
+    filterType: filter_select
+    targets:
+    - column:
+        name: ILLNESS
+      datasetUuid: 0fa6b8b7-d129-448f-8c39-4af76d5fa0c9
+    defaultDataMask:
+      extraFormData: {}
+      filterState: {}
+      ownState: {}
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 258
+    - 261
+    - 264
+    - 266
+    - 267
+    - 268
+    - 269
+    tabsInScope: []
+version: 1.0.0

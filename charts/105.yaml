@@ -1,0 +1,36 @@
+slice_name: "\u0442\u043E\u0442\u0430\u043B \u0441\u0435\u043C\u0435\u0439\u043D\u043E\
+  \u0435 \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u0435"
+description: null
+certified_by: null
+certification_details: null
+viz_type: pie
+params:
+  datasource: 25__table
+  viz_type: pie
+  slice_id: 105
+  groupby:
+  - MARRIAGE_STATUS
+  metric: count
+  adhoc_filters: []
+  row_limit: 100
+  sort_by_metric: true
+  color_scheme: supersetColors
+  show_labels_threshold: 5
+  show_legend: true
+  legendType: scroll
+  legendOrientation: top
+  label_type: key
+  number_format: SMART_NUMBER
+  date_format: smart_date
+  show_labels: true
+  labels_outside: true
+  outerRadius: 70
+  innerRadius: 30
+  extra_form_data: {}
+  dashboards:
+  - 11
+query_context: '{"datasource":{"id":25,"type":"table"},"force":false,"queries":[{"filters":[],"extras":{"having":"","where":""},"applied_time_extras":{},"columns":["MARRIAGE_STATUS"],"metrics":["count"],"orderby":[["count",false]],"annotation_layers":[],"row_limit":100,"series_limit":0,"order_desc":true,"url_params":{},"custom_params":{},"custom_form_data":{}}],"form_data":{"datasource":"25__table","viz_type":"pie","slice_id":105,"groupby":["MARRIAGE_STATUS"],"metric":"count","adhoc_filters":[],"row_limit":100,"sort_by_metric":true,"color_scheme":"supersetColors","show_labels_threshold":5,"show_legend":true,"legendType":"scroll","legendOrientation":"top","label_type":"key","number_format":"SMART_NUMBER","date_format":"smart_date","show_labels":true,"labels_outside":true,"outerRadius":70,"innerRadius":30,"extra_form_data":{},"dashboards":[11],"force":false,"result_format":"json","result_type":"full"},"result_format":"json","result_type":"full"}'
+cache_timeout: null
+uuid: 37a1c3d2-3ae2-4177-a29c-fb3754d22f49
+version: 1.0.0
+dataset_uuid: d5443528-76be-411a-9ef5-9175e661a389
